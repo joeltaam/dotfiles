@@ -1,3 +1,3 @@
 # setting
 
-ln -s zshrc ~/.zshrc
+ln -s dotfiles/zshrc/zshrc ~/.zshrc

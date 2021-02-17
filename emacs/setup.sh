@@ -1,2 +1,2 @@
 # setting
-ln -s emacs ~/.emacs.d
+ln -s dotfiles/emacs ~/.emacs.d
