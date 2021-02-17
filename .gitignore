@@ -1,0 +1,10 @@
+# emacs
+emacs/session.*
+emacs/*~
+emacs/[#]*[#]
+emacs/__*
+emacs/.#*
+emacs/*.lock
+emacs/*.log
+
+

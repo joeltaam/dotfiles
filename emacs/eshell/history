@@ -1,0 +1,108 @@
+ls
+gcc ./hello.c -o test && ./test
+gcc ./hello.c -o test && ./test
+gcc ./hello.c -o test && ./test
+gcc ./hello.c -o test && ./test
+gcc ./hello.c -o test && ./test
+gcc ./hello.c -o test && ./test
+ls
+clear
+gcc ./const.c 
+ls
+gcc ./const.c 
+gcc ./const.c 
+gcc ./const.c 
+ls
+./a.out 
+./a.out 
+gcc const.c && ./a.out 
+gcc const.c && ./a.out 
+ls
+cd pointer/
+ls
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+gcc ./pointer_exchange.c && ./a.out
+ls
+ls
+ls
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+ls
+./a.out 
+date
+who
+who am i
+whoami
+echo 1
+wc
+wc -w names
+wc -w
+gcc ./demo1.c && ./a.out 
+gcc ./demo1.c && ./a.out 
+gcc ./demo1.c && ./a.out 
+gcc ./demo1.c && ./a.out 
+ls
+mkdir charpter4
+touch strlen.c
+clear
+ls
+cd charpter3/
+cd ..
+cd charpter4/
+ls
+charpter3
+cd ..
+cd charpter3/
+ls
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+clear
+gcc ./demo1.c && ./a.out
+gcc ./demo1.c && ./a.out
+ls
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+clear
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+clear
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
+gcc ./fib.c && ./a.out 
